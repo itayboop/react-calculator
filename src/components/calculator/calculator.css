@@ -1,0 +1,11 @@
+.calculatorContainer {
+	width: 360px;
+	height: auto;
+	padding: 12px;
+	border-radius: 10px;
+	background-color: #28313b;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
